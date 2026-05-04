@@ -26,7 +26,7 @@ $ npm run dev
 ```bash
 # For windows
 $ npm run build:win
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/baf44a15-95e3-49f1-8d14-132a8b194eca" />
+
 
 # For macOS
 $ npm run build:mac
@@ -34,3 +34,5 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f05058c1-7719-4bf0-9d6b-df7ac51efce1" />
+
